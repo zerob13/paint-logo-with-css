@@ -6,3 +6,7 @@ Using css paint some apps' icon for fun~
 - Using scss
 - Using as less elements as I can
 - Zero javascript and canvas
+
+## Demo
+- [Greentea Logo](https://jsfiddle.net/zerob13/ufp1hkbv/3/)
+- [Chrome Logo](http://jsfiddle.net/zerob13/t3juo3zf/)
