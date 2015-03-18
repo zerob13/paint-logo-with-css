@@ -1,8 +1,8 @@
 # paint-logo-with-css
-Using css paint some Apps' Icon for fun
+Using css paint some apps' icon for fun~
 
----
-## need to know
-- using yeoman to build
-- using scss
-- using as less elements as I can
+## Need to know
+- Using a yeoman [generator](https://github.com/zerob13/generator-happy-mobile-webapp) to build
+- Using scss
+- Using as less elements as I can
+- Zero javascript and canvas
