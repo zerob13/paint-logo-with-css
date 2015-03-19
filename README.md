@@ -10,3 +10,23 @@ Using css paint some apps' icon for fun~
 ## Demo
 - [Greentea Logo](https://jsfiddle.net/zerob13/ufp1hkbv/3/)
 - [Chrome Logo](http://jsfiddle.net/zerob13/t3juo3zf/)
+
+## How to play
+
+1. clone the code
+
+```
+git clone https://github.com/zerob13/paint-logo-with-css.git
+```
+
+2. install dependency
+
+```
+npm install ; bower install
+```
+
+3. just run
+
+```
+grunt serve
+```
