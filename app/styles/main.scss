@@ -17,6 +17,14 @@ body {
   margin: auto;
   display: block;
 }
-
+.robot-wrap{
+  width:600px;
+  height:360px;
+  margin: auto;
+  display: block;
+  background:#ffdbdb;
+  position: relative;
+}
 @import 'logos/greentea';
 @import 'logos/chrome';
+@import 'robot/baymax';
