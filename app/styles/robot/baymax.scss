@@ -1,6 +1,16 @@
 $head_h: 70px;
 $head_w: 100px;
 
+@keyframes movehead {
+  from {
+    top: 140px;
+  }
+  to {
+    top: 150px;
+  }
+}
+
+
 .baymax-head {
   height: $head_h;
   width: $head_w;
@@ -72,16 +82,16 @@ $body_w: 300px;
     right: 50px;
     transform: rotateZ(175deg);
   }
+  animation: movehead 2s ease 0s infinite alternate;
 }
 
 .mask {
   background: #fff;
   height: 100px;
   min-width: 600px;
-  width:100%;
+  width: 100%;
   display: block;
   position: absolute;
   top: 365px;
   left: 278px;
-
 }
