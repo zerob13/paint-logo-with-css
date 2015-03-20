@@ -77,7 +77,8 @@ $body_w: 300px;
 .mask {
   background: #fff;
   height: 100px;
-  width: 600px;
+  min-width: 600px;
+  width:100%;
   display: block;
   position: absolute;
   top: 365px;
